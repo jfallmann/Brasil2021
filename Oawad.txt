@@ -1,52 +1,45 @@
-Wuergpackl Aans:  Daten
+WP1: Data consolidation
 
-Wuergpackl Zwaa: Cycle distributions.
+Initial effort will be focused on the curation of datasets. The latter build the basis for collaborative
+investigation of properties which can be used to characterize large empirical networks. The partners will then
+work in parallel on complementary measures to quantify how close a graph is to exhibit a specific property.
 
-Cycles encapsulate semi-local information in a graph. Cycle bases provide
-well-defined, manageable cycle sets that can be computed efficiently. The
-length distribution of cycle sets such as the relevant cycles, i.e., those
-that are contained in at least one minimum cycle basis can be computed
-efficiently even without enumerating the sometimes exponentially large
-cycle sets. We therefore plan to use cycle distributions as complementary
-source of information. In particular we will investigate the relationships
-between Laplacian eigenvalues and cycle distribution and explore to what
-extent and which graph classes they can be used for alternative
-classification tasks.
 
-Properties of cycle bases also characterize planarity and potentially other
-embedding properties. The latter is likely of particular relevance to
-application in brain-neworks and other networks that are embedded into
-low-dimensional (Euklidean) spaces. In the 2nd period we will therefore
-systematically investigate the contraints of embeddings on the cycle
-distributions. 
+WP2: Cycle distributions.
 
-Wuergpackl Drei: Sampling-based approaches
+Cycles encapsulate semi-local information in a graph. Cycle bases provide well-defined, manageable cycle sets
+that can be computed efficiently. The length distribution of cycle sets such as the relevant cycles, i.e.,
+those that are contained in at least one minimum cycle basis can be computed efficiently even without
+enumerating the sometimes exponentially large cycle sets. We therefore plan to use cycle distributions as
+complementary source of information. In particular we will investigate the relationships between Laplacian
+eigenvalues and cycle distribution and explore to what extent and which graph classes they can be used for
+alternative classification tasks.
 
-Very large networks with often millions of nodes cannot by analyzed
-completely by ``expensive'' algorithms with running times that
-substantially exceed linear or N\log N time complexity. This is in
-particular the case for the computation of cycle bases. This can be
-remedied by two approaches: (i) If available fast heuristics can be used to
-compute approximations. (ii) Distributions of properties can be estimated
-by evaluating small samples of the graph. We will therefore devise
-systematic ways to sample suitable cycles sets. This is not trivial because
-cycles are not completely local. We will therefore define compact local
-induced substraphs whose cycle bases are informative on the global cycle
-distribution. The initial empirical study will inform a more in-depth
-mathematical analysis geared towards determining which graph classes are
-amendable to such a sampling approach. Again, low-dimensionally embedded
-graphs are good candidates, because subgraph with fixed diameter remain
-finite even then total network size diverges.
+Properties of cycle bases also characterize planarity and potentially other embedding properties. The latter
+is likely of particular relevance to application in brain-neworks and other networks that are embedded into
+low-dimensional (Euklidean) spaces. In the 2nd period we will therefore systematically investigate the
+contraints of embeddings on the cycle distributions.
 
-Wuergpackl Via: Asymptotic classification.
+WP3: Sampling-based approaches
 
-Similar to limits of spectral distributions in limit of graph size
-approaching infinite, limiting distribitions can also be defined for
-families of graphs. Expanding on previous work [Gu et al paper] we will
-explore the existence of limits for cycle distributions. Of particular
-interest is the question whether graph classes with the same limits of
-their spectral distribution can distinguished based on the distribution of
-cycles. 
+Very large networks with often millions of nodes cannot by analyzed completely by ``expensive'' algorithms
+with running times that substantially exceed linear or N\log N time complexity. This is in particular the case
+for the computation of cycle bases. This can be remedied by two approaches: (i) If available fast heuristics
+can be used to compute approximations. (ii) Distributions of properties can be estimated by evaluating small
+samples of the graph. We will therefore devise systematic ways to sample suitable cycles sets. This is not
+trivial because cycles are not completely local. We will therefore define compact local induced substraphs
+whose cycle bases are informative on the global cycle distribution. The initial empirical study will inform a
+more in-depth mathematical analysis geared towards determining which graph classes are amendable to such a
+sampling approach. Again, low-dimensionally embedded graphs are good candidates, because subgraph with fixed
+diameter remain finite even then total network size diverges.
+
+WP4: Asymptotic classification.
+
+Similar to limits of spectral distributions in limit of graph size approaching infinite, limiting
+distribitions can also be defined for families of graphs. Expanding on previous work [Gu et al paper] we will
+explore the existence of limits for cycle distributions. Of particular interest is the question whether graph
+classes with the same limits of their spectral distribution can distinguished based on the distribution of
+cycles.
 
 
 
