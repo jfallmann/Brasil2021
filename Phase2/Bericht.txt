@@ -1,0 +1,22 @@
+During the first funding phase we were able to complete reseach on
+tree-like networks, resulting in a an efficient algorithm for estimating
+eigenvalue counts for this type of networks. This resulted in joint
+publication in J. Complex Networks. In addition to the DAAD-funded short
+travel, two PhD students from the Fujita lab in Sao Paulo are currently
+spending extentended reseach stays in the Stadler lab in Leipzig. Bruno
+Ilha is working on metabolic networks, and Grover Guzman just arrived in
+Leipzig. He will continue the joint work on eigenvalues in simple network
+classes. The DAAD exchange has been very helpful in securing external
+funding. As planned, a network meeting in Sao Paulo has taken place in 2002
+with participation of 4 researchers from Leipzig including the PI, and
+Andre Fujita and collaborator have visited Leipzig in 2022 and in spring
+2023. The second scheduled visit of the Leipzig group to Sao Paulo in the
+current funding period is scheduled for Nov/Dec. Software development is
+ongoing. Current focus of the work is on improvements of the theoretical
+results. Early stage researches, notably Nora Beier, have been closely
+involved in preparing the annual report for 2022 and this renewal
+application.
+
+
+
+
