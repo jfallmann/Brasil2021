@@ -1,0 +1,15 @@
+Report CAPES-DAAD 2022 - 2023
+ 
+Workshop on Network Statistics
+The workshop occurred between September 15th and 16th at Prof. Imre Simon Auditorium at the Institute of Mathematics and Statistics of the University of São Paulo. Approximately 30 people attended this workshop, including (under) graduate students and faculty members from the University of São Paulo, Federal University of ABC, Federal University of Technology - Paraná, Sírio Libanês Hospital, Leipzig University, and the Hamburg University of Technology. We had two main talks - one by Prof. Peter Stadler (German coordinator) and one by Prof. André Fujita (Brazilian coordinator), seven oral presentations, and two group meetings (one each day) to allow participants to build new collaborations.
+
+Personnel exchange
+1. Prof. Stadler, Dr. Stephan Bernhart, and Ms. Nora Beier visited Prof. Fujita's lab from September 12th to 19th, 2022.
+2. Prof. André Fujita, the Brazilian PI, visited Prof. Stadler's lab from December 11th to 19th, 2022.
+3. Prof. André Fujita, the Brazilian PI, visited Prof. Stadler's lab from May 17th to 22nd, 2023.
+4. The Bioinformatics graduate program student Bruno Iha (University of São Paulo) is visiting Prof. Stadler at Leipzig University. Bruno will work at Prof. Stadler's lab from April to October 2023 (six months) to do his sandwich Ph.D.
+5. The postdoc, Grover Enrique Castro Guzman, will visit Prof. Stadler's lab from July 2022 to February 2023.
+
+Publications:
+1. Guzman GEC, Stadler PF, Fujita A. Efficient Laplacian spectral density computations for networks with arbitrary degree distributions. Network Science. 9: 312 – 327, 2021.
+2. Guzman GEC, Stadler PF, Fujita A. Efficient eigenvalue counts for tree-like networks. Journal of Complex Networks. 10: cnac040, 2022.
